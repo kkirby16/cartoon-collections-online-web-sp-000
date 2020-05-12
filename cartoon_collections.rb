@@ -23,5 +23,5 @@ def find_the_cheese(array)
   if array.include?("cheddar" || "gouda" || "camembert")
   array.find do |cheese| 
     cheese
-  
+  end
 end
