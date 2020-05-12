@@ -1,3 +1,5 @@
+binding.pry
+
 def roll_call_dwarves(dwarves)
   dwarves.each_with_index do |dwarve, index| 
     puts "#{index+1}. #{dwarve}" 
